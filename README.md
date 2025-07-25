@@ -25,7 +25,6 @@
 
 ### 📫 Connect with Me
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/viraj-jamgaonkar-237b56234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Email:** [My Email](jamgaonkarviraj0@gmail.com)
 
 
 <!--
