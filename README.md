@@ -11,7 +11,7 @@
 ---
 
 ### 🛠 Tech Skills
-- **Languages:** Python (Basics) (NumPy, Pandas), LaTeX
+- **Languages:** Python (Basics) (NumPy, Matplotlib, Pandas), LaTeX
 - **Tools:** Git, GitHub, VS Code, Microsoft Tools, Aspen, MATLAB(Basics)
 - **Domain:** Reaction Engineering, Process Design, Process Modeling, Mass and Heat Transfer, Thermodynamics
 
